@@ -11,9 +11,9 @@ Some of them will be outside the circle and some of them will be inside the circ
 
 ![This is an image](/assets/draw-2.png)
 
-##Area of Circle: πr^2
+>Area of Circle: πr^2
 
-##Area of Square: 2r^2
+>Area of Square: 2r^2
 
 So;
 
@@ -21,4 +21,4 @@ So;
 
 after mathematical simplifications;
 
-##π = 4*(number of point in the circle)/number of point in total
+## π = 4*(number of point in the circle)/number of point in total
