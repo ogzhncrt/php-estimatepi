@@ -1,7 +1,7 @@
 <?php
 
 class estimate_pi {
-    public $precision = 100000; //count of shoot
+    public $precision = 100000; //count of dots
 
     public $point_in_circle = 0;
     public $point_in_total  = 0;
